@@ -1,0 +1,15 @@
+.description{
+    color:black !important;
+    font-weight: 400 !important;
+    font-size: medium !important;
+}
+
+.info-text{
+    font-size: 15px;
+    font-weight: 600;
+
+}
+
+.info-text span{
+    font-weight: 500;
+}
